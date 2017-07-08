@@ -15,6 +15,7 @@ ALeapPawn::ALeapPawn()
 void ALeapPawn::BeginPlay()
 {
 	Super::BeginPlay();
+    
 	
 }
 
